@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lora';
-  background-image: linear-gradient(rgba(68, 65, 64, 0.65), rgba(68, 65, 64, 0.65)), url("../img/bg.jpg");
+  background-image: linear-gradient(rgba(19, 17, 17, 0.65), rgba(19, 17, 17, 0.65)), url("../img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -75,12 +75,12 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(68, 65, 64, 0.9);
+  background-color: rgba(19, 17, 17, 0.9);
   font-family: 'Raleway';
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #e62e2ef5;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -89,7 +89,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #e62e2ef5;
 }
 
 @media (min-width: 992px) {
@@ -100,7 +100,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #e6a756;
+    color: #e62e2ef5;
   }
 }
 
@@ -145,7 +145,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: rgba(68, 65, 64, 0.9);
 }
 
 .cta .cta-inner {
@@ -202,7 +202,7 @@ p {
 }
 
 .list-hours .list-hours-item {
-  border-bottom: 1px solid rgba(230, 167, 86, 0.5);
+  border-bottom: 1px solid rgba(68, 65, 64, 0.5);
   padding-bottom: .25rem;
   margin-bottom: 1rem;
   font-style: italic;
@@ -210,7 +210,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #e6a756;
+  color: #e62e2ef5;
 }
 
 @media (min-width: 992px) {
@@ -225,7 +225,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(68, 65, 64, 0.9);
+  background-color: rgba(19, 17, 17, 0.9);
 }
 
 .text-primary {
@@ -241,13 +241,13 @@ p {
 }
 
 .btn-primary {
-  background-color: #131210b7;
-  border-color: #131210b7;
+  background-color: #131210e3;
+  border-color: #131210e3;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #131210f1;
-  border-color: #131210f1;
+  background-color: #131210f5;
+  border-color: #131210f5;
 }
 
 .font-weight-light {
