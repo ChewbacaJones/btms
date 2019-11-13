@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lora';
-  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/bg.jpg");
+  background-image: linear-gradient(rgba(68, 65, 64, 0.65), rgba(68, 65, 64, 0.65)), url("../img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -75,7 +75,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(68, 65, 64, 0.9);
   font-family: 'Raleway';
 }
 
@@ -225,7 +225,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(68, 65, 64, 0.9);
 }
 
 .text-primary {
@@ -233,7 +233,7 @@ p {
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #181311c9 !important;
 }
 
 .btn {
@@ -241,13 +241,13 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #131210b7;
+  border-color: #131210b7;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #df902a;
-  border-color: #df902a;
+  background-color: #131210f1;
+  border-color: #131210f1;
 }
 
 .font-weight-light {
